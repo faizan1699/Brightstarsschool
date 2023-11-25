@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Brightstarsschool/static/css/main.32be379d.css",
+    "main.js": "/Brightstarsschool/static/js/main.90e42d25.js",
+    "static/media/GradeR.png": "/Brightstarsschool/static/media/GradeR.7696f4d791c40cbfe6c4.png",
+    "static/media/grade1.jpg": "/Brightstarsschool/static/media/grade1.6fab9d6c2dab4d1c9210.jpg",
+    "static/media/grade4.jpg": "/Brightstarsschool/static/media/grade4.9cd47450a957ab797ee6.jpg",
+    "static/media/Background.jpg": "/Brightstarsschool/static/media/Background.b4aafb6909f9006593d4.jpg",
+    "static/media/Brightstar.png": "/Brightstarsschool/static/media/Brightstar.47bb487f5710ff8fb818.png",
+    "static/media/grade3.jpg": "/Brightstarsschool/static/media/grade3.0e0fca15e663456657c0.jpg",
+    "static/media/grade5.jpg": "/Brightstarsschool/static/media/grade5.8dbad12162bae24f48bd.jpg",
+    "index.html": "/Brightstarsschool/index.html",
+    "main.32be379d.css.map": "/Brightstarsschool/static/css/main.32be379d.css.map",
+    "main.90e42d25.js.map": "/Brightstarsschool/static/js/main.90e42d25.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32be379d.css",
+    "static/js/main.90e42d25.js"
+  ]
+}
